@@ -10,7 +10,7 @@ Just run:
 
 In a shell to see some examples like:
 
-$$ 1 / 1 - x - x^2 $$
+$$ 1 \over 1 - x - x^2 $$
 
 Encoded as:
 
